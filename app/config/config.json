@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "n5local",
+    "database": "jobcatalog",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
